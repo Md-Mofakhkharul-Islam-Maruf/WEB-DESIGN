@@ -1,0 +1,31 @@
+Todays learning................
+1. w3school
+2. webcoachbd  for php specially
+3. google.com 
+
+run -> temp
+run -> %temp%
+run -> prefetch
+
+photopea used for photo editing
+
+web design/ layout design/ webpage design/
+
+webpage? contain various content
+
+html? create structure and content
+
+css for design and JS for processing
+
+browser used for presenting website
+
+static                  vs              dinamic website
+direct code a giye site update korle seta STATIC website 
+database theke website update hole seta DYNAMIK website
+
+tag? is a syntax that describe how to show anything in the browser.
+Markup language? All the tags are together called Markup language.
+
+Element? <tag>total</tag>
+
+w3c.org
