@@ -1,0 +1,24 @@
+Todays learning................
+
+Git & Github
+
+Git is a software that used to operate separate command
+
+Github is a cloud storage that works as a storage device for code or project.
+
+git setup-> google download-> git->setup.
+
+Local workspace->stagging area-> local reposatory-> github reposatory.
+
+Basic command->......................
+
+git config global username
+git config global usereamail
+
+01. git init
+02. git add
+03. git commit
+04. git status 
+05. git remote add origin(for the first time only)
+06. git push
+07. git pull
