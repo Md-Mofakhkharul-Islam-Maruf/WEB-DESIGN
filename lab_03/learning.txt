@@ -1,0 +1,11 @@
+Todays learning................
+
+git init(initialize)->add(stage)->commit(local)->push(remote)
+
+Work from another pc->  
+1. git clone
+2. git add .
+3. git commit
+4. git push // it will push only when github account is already log in
+
+5. Another is git pull for exactly same file download from reposatory.
