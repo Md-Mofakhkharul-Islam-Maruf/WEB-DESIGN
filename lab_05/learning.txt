@@ -1,0 +1,18 @@
+Todays learning................
+
+1. Link vs Path
+
+2. Absoulate link vs absoulate Path:
+		Absoulate path means local path 
+		Absoulate link means online link
+		
+3. <a href=""></a> tag  // Link akare show korar jonno.
+
+4. link from another outside folder
+
+5. <img src="" title="" alt="Description"> // img tag directly show korar jnno 
+
+6. Image resize with code and without code:
+		edit or paint
+
+7. Favicon.
