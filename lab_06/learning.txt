@@ -1,0 +1,26 @@
+Todays learning................
+
+1. link vs path 
+	link= online 
+	path= local
+
+2. href vs src attribute
+	href= link/ clickable
+	src= direct view 
+
+3. Media tag
+	img audio video 
+
+4. Youtube video download
+
+5. audio tag
+
+6. video tag
+
+7. mime type (must have attached with audio or video tag)
+
+8. muted + autoplay aksathe chaara kaj korbe na.
+
+9. we must have use to controls attribute  within audio and video tag.
+
+10. iframe tag eta muloto jekono website er link dhore ane.
