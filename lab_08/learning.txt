@@ -1,0 +1,5 @@
+01.Table make korar somoy maximum cell ta sob tr a nite hobe.
+02. Row te hight select kore dile oi row er sobgulo cell sei height pay.
+03. width prottekta row er prottekta cell k alada alada kore define kore dite hoy. 
+04. align vs valign
+05. Content bosar por o jodi space kom ba beshi ney tahole content er width set kore dite hobe.
