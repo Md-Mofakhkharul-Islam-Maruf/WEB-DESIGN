@@ -1,0 +1,5 @@
+01. form attribute.
+02. html input type.
+03. get vs post
+04. input type: text, select, option, date, number and tel, mailto, radio, file, color, datetime-local, file, search, url, 
+05. Read only, hidden, placeholder, required, autocomplete="off", min, max, minlength, maxlength, accept, multiple,
