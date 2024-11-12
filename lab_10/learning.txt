@@ -1,0 +1,14 @@
+01. Button type submit, Button type reset.
+02. Jesob input field a user likhe dite parbe na seisob field a value set kore dite hobe. 
+03. select tag, checkbox, radio, textarea, fieldset, legend.
+
+.............................CSS...................................
+It is a selector base stylesheet language that used to describe how elements are sorted or design.
+
+Syntax:  selector name:{
+                  property: value;
+                 }
+
+there are are two types of selector: html tag name selector and user defined selector.
+02. id selector=#, class selector=.
+03. multiple class aksathe use kora jay but multiple id aksathe use kora jay na cz id unique hoy sobsomoy

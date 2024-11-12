@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Lab 10</title>
+		<link rel="stylesheet" href="style.css">
+		<style> 
+			h3{
+				color:teal;
+				font-size: 50px
+			}
+			
+			h4{
+				color: purple;
+				font-size: 30px
+			}
+		</style>
+	</head>
+	<body>
+		<fieldset>
+			<legend align="center"><strong>Registration form</strong></legend>
+				<form method="get" action="">
+					
+					<label for="course-name">Select your course: </label>
+					<select name="course-name" required>
+						<option value="">course name</option>
+						<option value="web-design">Web design</option>
+						<option value="web-development">Web development</option>
+						<option value="web-design-&-development">Web design & development</option>
+					</select><br>
+					
+					<label for="select-shift">Select shift: </label>
+					
+					<input type="checkbox" name="select-shift" value="morning">
+					<label>Morning</label>
+					<input type="checkbox" name="select-shift" value="day">
+					<label>Day</label>
+					<input type="checkbox" name="select-shift" value="evening">
+					<label>Evening</label><br>
+					
+					<label for="select-project">Select project: </label>
+					<input type="radio" name="select-project" value="asset">
+					<label>asset</label>
+					<input type="radio" name="select-project" value="bytes">
+					<label>bytes</label><br>
+					
+					<textarea placeholder="Write your opinion" name="opinion"></textarea>
+					
+					<input type="submit" name="submit" value="save">
+				</form>
+			</fieldset><br><br>
+			
+			<!-- Inline Css started-->
+			<label for="css">Css<label>
+			<p style= "color:red; font-size: 100px">Bangladesh</p>
+			<h2 style= "color: green; font-size: 80px"> Md. Mofakhkharul Islam Maruf </h2>
+			<!-- Inline Css end-->
+			
+			<!-- For Internal Css started-->
+			<h3> Saudi Arab</h3>
+			<h4> Maruf </h4>
+			<!-- For Internal Css end-->
+			
+			<!-- For external Css started-->
+			<h3 class="design"> Saudi Arab</h3>
+			<h4 class="design"> Maruf </h4>
+			<!-- For external Css end-->
+			
+			
+			<h5 class="text-c bg">Allahu Akbar</h5>
+			<h5 class="text-c">Allahu Akbar</h5>
+			<h5 id="fw-bld">Allahu Akbar</h5>
+	</body>
+</html>
