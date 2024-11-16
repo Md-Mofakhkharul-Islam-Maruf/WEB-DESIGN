@@ -1,0 +1,3 @@
+01. 3 ways to add css color.
+02. Background property: color, image, repeat, attachment, position. 
+03. Box model.

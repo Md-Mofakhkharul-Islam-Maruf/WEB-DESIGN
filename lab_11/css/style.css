@@ -1,0 +1,14 @@
+h1{
+	color: #F2D47E;
+}
+section{
+	width: 100%;
+	height: 500px;
+	border: 2px solid red;
+	/* background-image: url(../assets/images/sajek.jpg);
+	background-repeat: no-repeat;
+	background-size: 50%;
+	background-position: center;
+	background-attachment: fixed; */
+	background: url(../assets/images/sajek.jpg) no-repeat 50% center fixed;
+}
