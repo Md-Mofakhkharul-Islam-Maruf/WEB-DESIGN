@@ -8,4 +8,4 @@
   font-family: "Playwrite HU", cursive;
 06. Font shorthand property.
 07. Add icon: html entity, font awesome icon, bootstrap icon, fav icon, lord icon, remix icon etc. 
-08. cdnjs.com for cdn link.
+08. cdnjs.com for cdn link. clone
