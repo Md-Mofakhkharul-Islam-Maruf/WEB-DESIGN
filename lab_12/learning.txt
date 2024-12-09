@@ -1,0 +1,9 @@
+01. Css box model.
+	margin, padding, border, 
+02. Shorthand property.
+03. Block element vs inline element.: Display property(block, inline, inline-block, none). clear concept on video.
+04. Semantic vs non-semantic element.
+05. Structure ba layout always block element a hoy r content hoy inline element a.
+07. content niye kaj korar somoy display property use korte hobe jokhon pasapasi bosate hobe.................
+07. Structure niye kaj korar somoy block element niye kaj korte hobe o float property use korte hobe.
+08. layout== float, content = display;

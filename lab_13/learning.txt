@@ -1,0 +1,14 @@
+01. For structure we have to use block element and have to use layout technique such as float.
+02. For content we have to use display property such as inline, block, inline-block etc.
+03. article and section tag onekbar use kora jay.
+04. Jokhon structure bananor somoy amra semantic element pabona tokhon amra div use korbo ba onno kono non semantic block element use korbo.
+
+05. Css specificity hererchy:           *-> 0
+                                        tag-> 1
+                                        class-> 10
+                                        id-> 100
+                                        inline css-> 1000
+                                        p.logo.banner = 1+10+10
+* Universal selector prottekta element er saathe silently kaj kore.
+7. We have to use cover contain and height width that depend on images size.
+8. Jodi css url dhore image add korte hoy tokhon image er width height na kore background-size property diye korte hobe.

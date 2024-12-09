@@ -1,0 +1,103 @@
+/* common code start */
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&display=swap');
+@font-face{
+	src: url(../fonts/sofia-regular.ttf);
+	font-family: sofia-regular;
+}
+*{	
+	box-sizing: border-box;
+}
+.container{
+	width: 80%;   /* Ekhane body theke 80% width niye kaj kora hoiche baki 20% akhono baki */
+	margin: 0px auto; /*Ekhane body er j 20% ache seta duipase auto r upore niche opx kora hoiche */
+	border: 1px solid red;
+}
+/* common code end */
+
+/* header start */
+header{
+	height: 150px;
+}
+.logo{
+	height: 100%;
+	width: 20%;
+	border: 1px solid green;
+	float: left;
+}
+
+.logo img{
+	width: 100%;
+	margin-top: 35px;
+}
+
+.banner{
+	height: 100%;
+	width: 80%;
+	border: 1px solid pink;
+	float: left;
+	background: url(../images/banner.jpg);
+	background-size: 100% 100%;
+}
+
+/* header end */
+
+/* nav start */
+nav{
+	height: 50px;
+}
+/* nav end */
+
+/* main start */
+main{
+	height: 500px;
+}
+section{
+	width: 70%;
+	height: 100%;
+	border: 1px solid green;
+	float: left;
+}
+article{
+	width: 100%;
+	height: 50%;
+	border: 1px solid purple;
+}
+article h1{
+	color: green; 
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	word-spacing: 10px;	
+	font-size: 36px;
+	font-style: italic;
+	margin: 0px 0px 10px 0px;
+	font-weight: lighter;
+	font-family: sofia-regular, fantasy;
+}
+article p{
+	color: red; 
+	text-align: justify;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+	word-spacing: 5px;	
+	line-height: 1.5;
+	text-indent: 100px;
+	margin: 0px;
+	font-size:18px; 
+	font-style: normal;
+	font-family: 'Brush Script MT', Lucida Handwriting;
+	font-family: "Mea Culpa", cursive;
+}	
+aside{
+	width: 30%;
+	height: 100%;
+	border: 1px solid green;
+	float: right;
+}
+/* main end */
+
+/* footer start */
+footer{
+	height: 100px;
+}
+/* footer end */

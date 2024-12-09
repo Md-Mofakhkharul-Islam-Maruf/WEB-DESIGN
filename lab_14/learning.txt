@@ -1,0 +1,11 @@
+01. Typography : color, alignment, text decoration, text transformation. text indentation, 
+     letter spacing, word specing, line height, text shadow. font style, font-size, font-weight,
+02. fallback system.
+03. font download and added locally.
+04. Get font from google : html hole last link r css add korte hole @import r @import korte hole aita css er sobar upore uthate hoy.
+05. Add multiple font from google: add link in html or import on css and use font family: 
+  font-family: "Playwrite HR Lijeva", cursive; 
+  font-family: "Playwrite HU", cursive;
+06. Font shorthand property.
+07. Add icon: html entity, font awesome icon, bootstrap icon, fav icon, lord icon, remix icon etc. 
+08. cdnjs.com for cdn link.
