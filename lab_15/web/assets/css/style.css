@@ -1,0 +1,65 @@
+/* common code start */
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0px;
+}
+.container{
+	width: 80%;
+	margin: 0px auto;
+}
+/* common code end */
+
+/* nav section start */
+nav{
+	height: 70px;
+	border: 1px solid red;
+}
+.nav-brand{
+	height: 100%;
+	width: 20%;
+	border: 1px solid black;
+	float: left;
+}
+.navbar{
+	height: 100%;
+	width: 65%;
+	border: 1px solid black;
+	float: left;
+}
+.nav-btn{
+	height: 100%;
+	width: 15%;
+	border: 1px solid black;
+	float: left;
+}
+/* nav section end */
+
+/* header section start */
+header{
+	height: 200px;
+	border: 1px solid red;
+}
+/* header section end */
+
+/* about section start */
+.about-section{
+	height: 200px; 
+	border: 1px solid red;
+}
+/* about section end */
+
+/* blog section start */
+.blog-section{
+	height: 200px;
+	border: 1px solid red;
+}
+/* blog section end */
+
+/* footer section start */
+footer{
+	height: 50px;
+	border: 1px solid red;
+}
+/* footer section end */

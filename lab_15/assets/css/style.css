@@ -1,0 +1,18 @@
+div{
+	border: 1px solid red;
+	width: 400px;
+	height: 150px;
+	overflow: auto;
+}
+
+ul{
+	border: 1px solid red;
+}
+
+ul li{
+	list-style: inside url(../images/r.jpg);
+}
+ul li a{
+	text-decoration: none;
+}
+

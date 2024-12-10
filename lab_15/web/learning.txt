@@ -1,0 +1,5 @@
+01. To create a website at first we have to create a structure then content then design then 		javascript if needed.
+
+02. container class er width call korle kono tag ba class a notun kore width dile seta container class er width k replace kore fele.
+
+03. amra navbar banacchi jeta akta structure tai ekhane block element hobe r structure bananor somoy float technique use hoy always.

@@ -1,0 +1,6 @@
+01. Bootstrap icon.
+02. Remix Icon. 
+03. Fontawesome Icon.
+04. overflow property.
+06. Text decoration.
+07. list-style.
