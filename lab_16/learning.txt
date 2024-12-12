@@ -1,0 +1,2 @@
+01. Jekono website er logo clickable hoy. 
+02. Object-fit: cover and object-position: 0% 70% duita property aksathe kaj kore.
